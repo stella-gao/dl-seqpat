@@ -1,5 +1,18 @@
 # The results
 
+### pattern 1: A(5~10) random seq, random pos
+
+- CNN, run 5 times base on 5 datasets, 5 results
+
+|   | 1  | 2  | 3  | 4  | 5  |
+|---|---|---|---|---|---|
+|  auc | 0.9949425  |   |   |   |   |
+|  mcc | 0.929204912277 |   |   |   |   |
+|  acc | 0.9645  |   |   |   |   |
+|  sn | 0.975  |   |   |   |   |
+|  sp | 0.954  |   |   |   |   |
+|  f1 | 0.964868876794  |   |   |   |   |
+
 
 
 
